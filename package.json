@@ -1,0 +1,9 @@
+{
+  "name": "cross_agent_contamination",
+  "version": "0.1.0",
+  "description": "An AI red-team lab: indirect prompt injection that spreads across a multi-agent pipeline through a shared store. One poisoned sentence, laundered by a carrier agent, executed by a high-privilege agent. Vulnerable and fixed, with provenance as the cure.",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
